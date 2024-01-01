@@ -1,0 +1,11 @@
+{
+  "name": "vercel-hello",
+  "version": "1.0.0",
+  "description": "Hello Vercel application",
+  "main": "api/index.js",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "packageManager": "yarn@4.0.2"
+}
